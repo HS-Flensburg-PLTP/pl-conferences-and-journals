@@ -15,6 +15,6 @@
 
 ## Journals
 
-| Name | Topics | Ranking |
+| Name | Topics | CORE Ranking |
 | :--- | :----- | :------ |
-
+| [TOPLAS (ACM Transactions on Programming Languages and Systems)](https://dl.acm.org/journal/toplas) | language design for sequential and parallel programming, programming language implementation, programming language semantics, compilers and interpreters, runtime systems for program execution, storage allocation and garbage collection, languages and methods for writing program specifications, languages and methods for secure and reliable programs, testing and verification of programs | A* |
