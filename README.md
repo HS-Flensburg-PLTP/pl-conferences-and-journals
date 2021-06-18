@@ -11,7 +11,7 @@
 | [ECOOP (European Conference on Object-Oriented Programming)](https://2021.ecoop.org/series/ecoop) | design, implementation, optimization, analysis, testing, verification, and theory of programs, programming languages, and programming environments | January | A | A1 | A |
 | [ICFP (International Conference on Functional Programming)](https://www.icfpconference.org) | Language Design, Implementation, Software-Development Techniques, Foundations, Analysis and Transformation, Applications, Education | March | A* | A2 | A |
 | [OOPSLA (International Conference on Object-Oriented Programming, Systems, Languages, and Applications)](https://2020.splashcon.org/series/splash) | all aspects of programming languages and software engineering | April - May | A* | A1 | A |
-
+| [IFL (Symposium on Implementation and Application of Functional Languages)](https://ifl20.cs.ru.nl/) | The goal of the IFL symposia is to bring together researchers actively engaged in the implementation and application of functional and function-based programming languages. | August/December (Post-Symposium) | n/a | B3 | n/a |  
 
 ## Journals
 
